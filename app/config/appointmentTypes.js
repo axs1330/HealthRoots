@@ -1,0 +1,1 @@
+export default ["Primary Care", "Neurology", "Dental", "Orthopedics", "Podiatry", "Cardiology", "Opthalmology"];
